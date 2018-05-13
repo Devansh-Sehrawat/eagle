@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.0*%
+%TF.CreationDate,2018-05-03T13:10:54Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Ayush Pahwa <ayushpahwa69@gmail.com>*%
+%TJ.B_ID,wendor motor*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,116.820000*%
+%TJ.B_Size_Y,56.820000*%
+M02*
