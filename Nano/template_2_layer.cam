@@ -89,21 +89,6 @@
                 {
                     "board_outline": false,
                     "config": {
-                        "file_function": "Paste",
-                        "layer_type": "bottom"
-                    },
-                    "filename_format": "%PREFIX/solderpaste_bottom.gbr",
-                    "layers": [
-                        32
-                    ],
-                    "milling": false,
-                    "name": "Solderpaste Bottom",
-                    "polarity": "positive",
-                    "type": "gerber_layer"
-                },
-                {
-                    "board_outline": false,
-                    "config": {
                         "file_function": "Legend",
                         "index": 1,
                         "layer_type": "top"
